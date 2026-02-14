@@ -8,8 +8,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, this project uses the **GitHu
 
 ## 🚀 Live Demo
 
-👉 **Live Preview:**  
-
+https://pavithra-devadiga.github.io/github_finder/
 
 ---
 
